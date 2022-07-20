@@ -4,7 +4,7 @@ Web Styling
 
 Registration Number: 220006190
 <br>Name: Kirabo Karama Allen
-<br> URL of the hosted site: https://kirabokarama.github.io/index.html
+<br> URL of the hosted site:https://kirabokarama.github.io/index.html
 
 ## Instructions
 
